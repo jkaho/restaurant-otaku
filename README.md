@@ -17,12 +17,6 @@ This project aims to create a seamless, easily navigable and handy web applicati
  3. Jessica Hong
 
  4. Mushtaq Safie
- 
-
-## Testing
-
-Open the web application using the link https://norbu-s.github.io/Covid-Safe-Restaurant/
-
 
 ## Links to resources
 
@@ -51,9 +45,11 @@ Open the web application using the link https://norbu-s.github.io/Covid-Safe-Res
 
 ## Project Links
 
-1. Project URL - https://jkaho.github.io/restaurant-otaku/
+1. [Deployed Application](https://jkaho.github.io/restaurant-otaku/)
 
-2. Github Repository - https://github.com/jkaho/restaurant-otaku
+2. [Github Repository](https://github.com/jkaho/restaurant-otaku)
+
+3. [Presentation](https://docs.google.com/presentation/d/13OJRzDyKJnPH8hX9Oeu7KBEiyI5FBBdLljsr6YqIxbA/edit?usp=sharing)
 
 
 ## Application Screenshots
@@ -64,11 +60,13 @@ Open the web application using the link https://norbu-s.github.io/Covid-Safe-Res
 
 ![Favourites page on desktop](Assets/images/screenshot-desktop-2.png)
 
+
 ### Tablet & Laptop screens 
 
 ![Main page on tablet](Assets/images/screenshot-tablet.png)
 
 ![Favourites page on tablet](Assets/images/screenshot-tablet-2.png)
+
 
 ### Mobile screens 
 

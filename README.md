@@ -51,9 +51,9 @@ Open the web application using the link https://norbu-s.github.io/Covid-Safe-Res
 
 ## Project Links
 
-1. Project URL - https://norbu-s.github.io/Covid-Safe-Restaurant/
+1. Project URL - https://jkaho.github.io/restaurant-otaku/
 
-2. Github Repository - https://github.com/norbu-s/Covid-Safe-Restaurant
+2. Github Repository - https://github.com/jkaho/restaurant-otaku
 
 
 ## Application Screenshots
